@@ -30,6 +30,12 @@
       "required": true
     },
     {
+      "name": "DeustiaServerButton.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/DeustiaServerButton.jar",
+      "sha256": "69cf5b30af2d8c233d8c78871c38724846d8d419a239b2cb441fd98476a7cfed",
+      "required": true
+    },
+    {
       "name": "Guide-API-1.7.10-1.0.1-20.jar",
       "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/Guide-API-1.7.10-1.0.1-20.jar",
       "sha256": "d0359053d4f8299509889d6b3632b06bdc11251b93af8aa4385b08f435316439",
