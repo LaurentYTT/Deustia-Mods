@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "last_update": "2026-01-07",
+  "server_name": "Deustia",
+  "minecraft_version": "1.7.10",
+  "forge_version": "1.7.10-10.13.4.1614",
+  "mods": [
+    {
+      "name": "+unimixins-all-1.7.10-0.1.23.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/+unimixins-all-1.7.10-0.1.23.jar",
+      "sha256": "53b1721a9fef8e3351ece7c6b1b9598ed5290f67b1d00f312244ef603845425e",
+      "required": true
+    },
+    {
+      "name": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+      "sha256": "98b33b39c05e83fe76d7bfedda76db686acccd53c0e996c11da75838b15a1399",
+      "required": true
+    },
+    {
+      "name": "CustomNPCs_1.7.10d(29oct17).jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/CustomNPCs_1.7.10d(29oct17).jar",
+      "sha256": "c4c4d34731a02dfc071580d9e25b54ecb656e4526cfd07f48818dea9a22246d4",
+      "required": true
+    },
+    {
+      "name": "deustia-1.0.2.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/deustia-1.0.2.jar",
+      "sha256": "1a61161aaf95c6deb1fe78a9730fd2c23d643a2759ccacda138c3d2c71bbd477",
+      "required": true
+    },
+    {
+      "name": "Guide-API-1.7.10-1.0.1-20.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/Guide-API-1.7.10-1.0.1-20.jar",
+      "sha256": "d0359053d4f8299509889d6b3632b06bdc11251b93af8aa4385b08f435316439",
+      "required": true
+    },
+    {
+      "name": "ironchest-1.7.10-6.0.62.742-universal.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/ironchest-1.7.10-6.0.62.742-universal.jar",
+      "sha256": "a300fcf2c43ab26eb1eb380a13efdcc6c1c46f0a502da219a4b58337df52ef7b",
+      "required": true
+    },
+    {
+      "name": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+      "sha256": "3ebbc2f82b61812aa158375005a47da4d450bec870860fcbf015a64de74cde1c",
+      "required": true
+    },
+    {
+      "name": "OptiFine_1.7.10_HD_U_E7.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/OptiFine_1.7.10_HD_U_E7.jar",
+      "sha256": "8bcd9d83de001a0591f498105f369f070c47d2c9192774d5a5b69f646e44fab4",
+      "required": true
+    },
+    {
+      "name": "[1.7.10]DamageIndicatorsMod-3.3.2.jar",
+      "url": "https://github.com/LaurentYTT/Deustia-Mods/raw/main/mods/[1.7.10]DamageIndicatorsMod-3.3.2.jar",
+      "sha256": "86c858dc943aca63a54157b758433f65353c959a54c48933c49d6c8cc02d3f84",
+      "required": true
+    }
+  ]
+}
